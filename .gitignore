@@ -4,4 +4,4 @@ yarn-debug.log*
 yarn-error.log*
 package-lock.json # Optional: Some teams commit this, others don't.
 pnpm-lock.yaml # For pnpm
-.env
+config.bat
